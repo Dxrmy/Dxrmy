@@ -14,6 +14,9 @@ Hi, I'm Dormy. I build lightweight automation tools, write robust userscripts, a
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
+### 🌱 A Quick Note
+I do all of this purely as a hobby! Because of that, I have quite a few unfinished or currently broken repos, and I can sometimes end up leaving projects untouched for long stretches of time. If you see an issue or PR sitting in the void, feel free to give me a kick up the backside!
+
 ### 📊 GitHub Stats
 <p align="left">
   <img height="165" src="https://gh-readme-stats.vercel.app/api?username=Dxrmy&show_icons=true&theme=tokyonight" alt="Dormy's GitHub Stats" />
