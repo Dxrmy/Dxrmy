@@ -17,7 +17,7 @@ I'm a versatile developer and tinkerer with a passion for software modification,
 </p>
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img height="165" src="https://gh-readme-stats.vercel.app/api?username=Dxrmy&show_icons=true&theme=tokyonight" alt="Dormy's GitHub Stats" />
   <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Dxrmy&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
