@@ -3,9 +3,9 @@
 I'm a versatile developer and tinkerer with a passion for software modification, automation, and extending the capabilities of existing platforms. From porting game engine interpreters to the Nintendo 3DS to building zero-dependency installers and robust userscripts, I thrive on optimizing user experiences and removing digital barriers. 
 
 ### 🛠️ What I do
-- 🔧 **Modding & Reverse Engineering:** Patching IDE extensions and porting apps to new environments.
-- ⚡ **Automation:** Building lightweight, zero-dependency setup scripts.
-- 🕹️ **Homebrew:** Porting engines and software to legacy consoles.
+- 🔧 **Software Modding:** Customizing and enhancing apps, browsers, and tools.
+- ⚡ **Automation & Scripting:** Building lightweight, hassle-free environment setup scripts.
+- 🕹️ **Porting & Homebrew:** Bringing existing software and engines to new platforms like legacy consoles.
 
 ### 💻 Tech Stack
 <p align="left">
