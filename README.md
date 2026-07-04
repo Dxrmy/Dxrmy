@@ -1,6 +1,4 @@
-# Hi there, I'm Dormy 👋
-
-I'm a versatile developer and tinkerer with a passion for software modification, automation, and extending the capabilities of existing platforms. From porting game engine interpreters to the Nintendo 3DS to building zero-dependency installers and robust userscripts, I thrive on optimizing user experiences and removing digital barriers. 
+Hi, I'm Dormy. I build lightweight automation tools, write robust userscripts, and port game engines. I love taking things apart and building them back better.
 
 ### 🛠️ What I do
 - 🔧 **Software Modding:** Customizing and enhancing apps, browsers, and tools.
