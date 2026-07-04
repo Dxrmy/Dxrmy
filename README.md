@@ -16,5 +16,11 @@ I'm a versatile developer and tinkerer with a passion for software modification,
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://gh-readme-stats.vercel.app/api?username=Dxrmy&show_icons=true&theme=tokyonight" alt="Dormy's GitHub Stats" />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Dxrmy&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 ---
 *"Taking things apart and putting them back together—but better."*
